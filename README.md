@@ -1,10 +1,6 @@
 # maestro-node-oauth
 
-Project initialized  in 8 Jan 2016
-
-This repository is a continuation of this https://github.com/thomseddon/node-oauth2-server
-
-Forked base version 2.4.1 (29 Jun 2015)
+Version 2.4.2 
 
 ## Installation
 
