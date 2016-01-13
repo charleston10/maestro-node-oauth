@@ -1,7 +1,5 @@
 # maestro-node-oauth
 
-Version 2.4.2 
-
 ## Installation
 
 ```
